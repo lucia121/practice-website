@@ -1,0 +1,23 @@
+/* These are notes */
+h1 {
+  color: blue;
+}
+
+.title-section{
+  text-align: center;
+}
+
+.title-section img {
+  border-style: solid;
+  border-color: green;
+  border-width: 10px;
+}
+
+p {
+  font-family: Arial;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
